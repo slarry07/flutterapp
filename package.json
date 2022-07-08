@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FemiFatokun03/flutterwave-test.git"
+    "url": "https://github.com/slarr07/flutterwave-test.git"
   },
   "keywords": [
     "lannister-pay",
@@ -18,9 +18,9 @@
   "author": "Femi Fatokun",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/FemiFatokun03/flutterwave-test/issues"
+    "url":   "https://github.com/slarr07/flutterwave-test.issues"
   },
-  "homepage": "https://github.com/FemiFatokun03/flutterwave-test#readme",
+  "homepage": "https://github.com/slarry07/flutterwave-test#readme",
   "dependencies": {
     "bp": "^0.1.1-beta",
     "express": "^4.17.3",
